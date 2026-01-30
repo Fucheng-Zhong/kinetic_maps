@@ -1,0 +1,10 @@
+__pycache__/
+*.log
+*.pyc
+*.fits
+*.fit
+*.zip
+*.tar.gz
+*.tar
+*.safetensors
+*.out
