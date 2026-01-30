@@ -1,0 +1,14 @@
+{
+  "model_name": "test_CNN",
+  "input_size": 60,
+  "input_channel": 2,
+  "output_size": 2,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "epochs": 100,
+  "step_size": 10,
+  "gamma": 0.5,
+  "weight_decay": 0,
+  "train_ratio": 0.8,
+  "num_workers": 0
+}
